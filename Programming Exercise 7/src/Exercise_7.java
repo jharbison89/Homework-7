@@ -2,7 +2,7 @@
 public class Exercise_7 {
 	
 	/* Created by James Harbison
-	 * this program displays a table of all the prime numbers that are also palendromes between 1 and 
+	 * this program displays a table of all the prime numbers that are also palindromes between 1 and 
 	 * 100,000.  it does this by sending each number through two methods. the isPrime method returns 
 	 * true if the number is prime and false otherwise, and the isPalendrome method returns true if 
 	 * the number is a palindrome and false otherwise
